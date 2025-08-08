@@ -1,8 +1,9 @@
 # CS Student
+Technical Skills: Python, Javascript, C# 
 
 ### Education
-Kennesaw State University, Computer Science & Cybersecurity
-- B.S. Computer Science (AI) | M.S. Cybersecurity
+- B.S. Computer Science (AI) | Kennesaw State University (May 2029)
+- M.S. Cybersecurity | Kennesaw State University (May 2031)
 
 ### Work Experience 
 Code Ninjas, Coding Instructor 
